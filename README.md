@@ -24,6 +24,8 @@ Dashboard is a student management system for The University of The Gambia. Using
 ### [MathPad](https://github.com/wdrammeh/math-pad)
 This was me trying to mingle my maths with my programming skills. MathPad is simply a mathematics algorithm implementation system. It integrates basic to intermediate level mathematics algorithms. There's a clear-cut among the algorithms based on their distribution / areas in mathematics: Number Theory, Finance, Algebra, Geometry, etc.
 
+> In addition to these and my many personal projects, I also work in many web application projects across my career as a developer for the companies I worked with. Most of those projects are classified.
+
 ## Skills & Technologies
 
 - **Languages**: Java, Python, JavaScript, PHP, Dart
