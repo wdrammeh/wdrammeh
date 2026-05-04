@@ -28,7 +28,7 @@ This was me trying to mingle my maths with my programming skills. MathPad is sim
 
 ## Skills & Technologies
 
-- **Languages**: Java, Python, JavaScript, PHP, Dart
+- **Languages**: Java, Python, JavaScript, PHP, Kotlin, Dart
 - **Desktop Development**: Java (Swing)
 - **Web Development**: Spring, Flask, Laravel, Flutter
 - **Mobile Development**: Flutter
